@@ -19,4 +19,6 @@ cv2 = cv2.imwrite(os.path.join ('.', 'data', 'abc_out.jpg'), img)
 `visualize`
 cv2.imshow('image', img)
 cv2.waitKey(0)
+```
 
+fewckm
